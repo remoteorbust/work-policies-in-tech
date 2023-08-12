@@ -3,34 +3,34 @@ Tailored to SWE new hires at the most popular companies. No HFTs/prop shops.
 
 | Company Name | Category | Minimum In-Office Days Per Week | Notes |
 |--------------|----------|-----------------------|-------|
-| Acorns | Remote-First | - | - |
+| Acorns | Remote-First | 0 | - |
 | Adobe | Hybrid | 2.5 | - |
-| Affirm | Remote-First | - | - |
-| Airbnb | Remote-First | - | - |
-| Akamai | Remote-First | - | - |
+| Affirm | Remote-First | 0 | - |
+| Airbnb | Remote-First | 0 | - |
+| Akamai | Remote-First | 0 | - |
 | Amazon | Hybrid | 3 | - |
 | American Express | Hybrid | 2 | - |
 | Anduril | Full RTO | 5 | - |
 | Apple | Hybrid | 3 | - |
 | Asana | Hybrid | 3 | - |
 | ASML | Dependent | 2 | - |
-| Atlassian | Remote-First | - | - |
-| Autodesk | Remote-First | - | - |
+| Atlassian | Remote-First | 0 | - |
+| Autodesk | Remote-First | 0 | - |
 | Bank of America | Hybrid | 3 | - |
 | Barclays | Dependent | - | Based on team |
 | BlackRock | Hybrid | 4 | - |
-| Block | Remote-First | - | - |
-| Blockdaemon | Remote-First | - | - |
+| Block | Remote-First | 0 | - |
+| Blockdaemon | Remote-First | 0 | - |
 | Bloomberg | Hybrid | 3 | - |
 | Blue Origin | Full RTO | 5 | - |
-| Box | Remote-First | - | - |
-| Brex | Remote-First | - | - |
+| Box | Remote-First | 0 | - |
+| Brex | Remote-First | 0 | - |
 | Broadcom | Full RTO | 5 | - |
 | ByteDance | Dependent | - | - |
 | C3 AI | Full RTO | 5 | - |
 | Capital One | Hybrid | 3 | - |
 | Carvana | Dependent | - | - |
-| Chime | Remote-First | - | - |
+| Chime | Remote-First | 0 | - |
 | Cisco | Dependent | - | Based on role |
 | Clari | Remote-First | 0 | - |
 | Cloudflare | Remote-First | 0 | - |
@@ -38,7 +38,7 @@ Tailored to SWE new hires at the most popular companies. No HFTs/prop shops.
 | Compass | Hybrid | 2 | - |
 | Confluent | Remote-First | 0 | - |
 | Credit Karma | Hybrid | 3 | - |
-| Cribl | Remote-First | - | - |
+| Cribl | Remote-First | 0 | - |
 | CrowdStrike | Remote-First | 0 | - |
 | Cruise | Dependent | - | Based on team |
 | Databricks | Hybrid | 1 | - |
@@ -63,7 +63,7 @@ Tailored to SWE new hires at the most popular companies. No HFTs/prop shops.
 | GoDaddy | Remote-First | 0 | - |
 | Goldman Sachs | Hybrid | 3 | - |
 | Google | Hybrid | 3 | - |
-| Grafana | Remote-First | - | - |
+| Grafana | Remote-First | 0 | - |
 | Grammarly | Remote-First | 0 | - |
 | Gusto | Hybrid | 2 | - |
 | HashiCorp | Remote-First | 0 | - |
@@ -73,7 +73,7 @@ Tailored to SWE new hires at the most popular companies. No HFTs/prop shops.
 | Indeed | Remote-First | 0 | - |
 | Instacart | Remote-First | 0 | - |
 | Intel | Dependent | - | Based on team |
-| Ironclad | Remote-First | - | - |
+| Ironclad | Remote-First | 0 | - |
 | Intuit | Hybrid | 2 | - |
 | JP Morgan | Hybrid | 3 | - |
 | Klaviyo | Hybrid | 2 | - |
@@ -86,10 +86,10 @@ Tailored to SWE new hires at the most popular companies. No HFTs/prop shops.
 | Magic Leap | Remote-First | 0 | - |
 | Mastercard | Hybrid | 2 | - |
 | Match Group | Hybrid | 3 | - |
-| Mercury | Remote-First | - | - |
+| Mercury | Remote-First | 0 | - |
 | Meta | Remote-First | 0 | Eligible after 18 months |
 | Microsoft | Dependent | - | Based on team |
-| Mixpanel | Remote-First | - | - |
+| Mixpanel | Remote-First | 0 | - |
 | MongoDB | Dependent | - | Based on team |
 | Morgan Stanley | Hybrid | 3 | - |
 | NVIDIA | Dependent | - | Based on team |
@@ -142,12 +142,12 @@ Tailored to SWE new hires at the most popular companies. No HFTs/prop shops.
 | Splunk | Remote-First | 0 | - |
 | Spotify | Remote-First | 0 | - |
 | Square | Remote-First | 0 | - |
-| Starburst | Remote-First | - | - |
-| Stash | Remote-First | - | - |
+| Starburst | Remote-First | 0 | - |
+| Stash | Remote-First | 0 | - |
 | Stripe | Dependent | - | Based on team |
 | Synopsys | Hybrid | 3 | - |
 | Tesla | Dependent | 3 | Based on team |
-| Thumbtack | Remote-First | - | - |
+| Thumbtack | Remote-First | 0 | - |
 | Toast | Remote-First | 0 | - |
 | Twilio | Remote-First | 0 | - |
 | Twitter | Full RTO | 5 | - |
@@ -163,7 +163,7 @@ Tailored to SWE new hires at the most popular companies. No HFTs/prop shops.
 | Wayfair | Hybrid | 2.5 | - |
 | Waymo | Dependent | - | Based on team |
 | Webflow | Remote-First | 0 | - |
-| Weights & Biases | Remote-First | - | - |
+| Weights & Biases | Remote-First | 0 | - |
 | Wells Fargo | Hybrid | 3 | - |
 | Workday | Hybrid | 3 | - |
 | Yelp | Remote-First | 0 | - |
