@@ -1,4 +1,4 @@
-# work-models-in-tech
+# work-policies-in-tech
 Tailored to SWE new hires at the most popular companies. No HFTs/prop shops.
 
 | Company Name | Category | Minimum In-Office Days Per Week | Notes |
